@@ -1,0 +1,27 @@
+BEGIN
+ID[STRING]: name
+ASSIGN
+STRING: peter
+COLON
+ID[REAL]: price
+ASSIGN
+REAL_CONST: 3.44
+COLON
+ID[INT]: quantity
+ASSIGN
+INT_CONST: 10
+COLON
+ID[REAL]: total
+ASSIGN
+ID[REAL]: price
+TIMES
+ID[INT]: quantity
+COLON
+WRITE
+STRING: the total is 
+COLON
+WRITE
+ID[REAL]: total
+COLON
+END
+POINT

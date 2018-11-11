@@ -1,0 +1,6 @@
+BEGIN
+	price <= 1.44 :
+	name <= "PETER" :
+	WRITE price :
+	WRITE name :
+END .

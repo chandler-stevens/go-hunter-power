@@ -1,0 +1,17 @@
+BEGIN
+Lexical Error, unrecognized symbol price
+ASSIGN
+REAL_CONST: 1.44
+COLON
+Lexical Error, unrecognized symbol name
+ASSIGN
+Lexical Error, unrecognized symbol "PETER"
+COLON
+WRITE
+Lexical Error, unrecognized symbol price
+COLON
+WRITE
+Lexical Error, unrecognized symbol name
+COLON
+END
+POINT

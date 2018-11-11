@@ -1,0 +1,8 @@
+BEGIN
+$name <= "peter" :
+%price <= 3.44 :
+#quantity <= 10 :
+%total <= %price * #quantity :
+WRITE "the total is " :
+WRITE %total :
+END .
